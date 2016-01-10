@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Spotify</string>
+    <string name="welcome">La música que te gusta, donde sea</string>
+    <string name="welcome_footer">Se parte de nuestro proyecto</string>
+</resources>
