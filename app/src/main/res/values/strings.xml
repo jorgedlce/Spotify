@@ -2,4 +2,8 @@
     <string name="app_name">Spotify</string>
     <string name="welcome">La música que te gusta, donde sea</string>
     <string name="welcome_footer">Se parte de nuestro proyecto</string>
+    <string name="title_activity_my_music">MyMusic</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
