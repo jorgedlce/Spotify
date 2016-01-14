@@ -60,7 +60,7 @@ public class MyMusic extends AppCompatActivity {
 
         @Override
         public int getCount() {
-            return 4;
+            return 3;
         }
         /*
         @Override
@@ -77,8 +77,7 @@ public class MyMusic extends AppCompatActivity {
                     return "Amigos";
                 case 2:
                     return "Perfil";
-                case 3:
-                    return "Perfil";
+
 
             }
             return null;
